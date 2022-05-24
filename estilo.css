@@ -1,0 +1,51 @@
+
+	body{
+    background-image: url(espaco.jpg);
+}
+    h1
+	{color:white;
+	   font-family: verdana;
+	   font-size: 25px;}
+	   
+	b
+	{color:FFAA00;
+	   font-family: arial;}
+	   
+	p
+	{color:white;
+	   font-family: arial;}
+	   
+	ins
+	 {color: 00DDFF;}
+	 
+	th
+	{color: yellow;
+	   font-family: arial;}
+	   
+	td
+	{color:white;
+	   font-family: arial;}
+	   
+	a
+	{color:white;
+	   font-family: verdana;}
+	
+	li
+         {color:white;
+	   font-family: verdana;}
+	   
+	#texto
+	{background-color: black;
+	padding: 20px 1px 20px 1px;}
+	
+	table
+	{background-color: black;
+	padding: 1px 1px 1px 1px;}
+	
+	#tabelainformacao
+	{background-color: 111111;
+	padding: 20px 100px 180px 20px;}
+	
+	#cor
+	{color: 0077DD;}
+	
